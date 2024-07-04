@@ -32,5 +32,115 @@
       "Hours": "456",
       "DocumentURL": "https://mega.nz/file/3QAiAYDa#cfdy8jI1tHi9iljLcbXvCYO82Yk8f_9anVfj7wRyC6E"
     }
+    {
+        "Name": "Сидоров Сергей Васильевич",
+        "Specialty": "Менеджмент",
+        "GraduationDate": "2023-12-15",
+        "DocumentType": "диплом",
+        "DocumentSeries": "225",
+        "DocumentNumber": "995432",
+        "Supervisor": "Иванова Ольга Сергеевна",
+        "Hours": "300",
+        "DocumentURL": "https://mega.nz/file/4RAjCYHa#abcd9jU2vHi9jlxLdbXvCYN82xk8g_8bnUjj7wRyC7F"
+    },
+    {
+        "Name": "Николаева Мария Ивановна",
+        "Specialty": "Маркетинг",
+        "GraduationDate": "2024-02-10",
+        "DocumentType": "сертификат",
+        "DocumentSeries": "489",
+        "DocumentNumber": "123789",
+        "Supervisor": "Смирнов Алексей Михайлович",
+        "Hours": "320",
+        "DocumentURL": "https://mega.nz/file/5QAkDYIa#efgh0jU3tHi9klzMdcYvDYN82yk8h_9cnWjj8wSyC8G"
+    },
+    {
+        "Name": "Кузнецов Дмитрий Алексеевич",
+        "Specialty": "Программирование",
+        "GraduationDate": "2023-11-30",
+        "DocumentType": "свидетельство",
+        "DocumentSeries": "789",
+        "DocumentNumber": "555111",
+        "Supervisor": "Григорьев Николай Александрович",
+        "Hours": "400",
+        "DocumentURL": "https://mega.nz/file/6QAlEYJa#ijkl1jU4vHi9mlAEdcZvEYO82zk8i_0doWkk9xSzC9H"
+    },
+    {
+        "Name": "Федорова Ирина Павловна",
+        "Specialty": "Бухгалтерия",
+        "GraduationDate": "2023-06-18",
+        "DocumentType": "удостоверение",
+        "DocumentSeries": "647",
+        "DocumentNumber": "876543",
+        "Supervisor": "Романов Дмитрий Викторович",
+        "Hours": "275",
+        "DocumentURL": "https://mega.nz/file/7QAmFYKa#lmno2kU5vHi9nlBEdcYvFYO82zk8j_1epXll0zSzC0I"
+    },
+    {
+        "Name": "Морозов Алексей Сергеевич",
+        "Specialty": "Управление проектами",
+        "GraduationDate": "2024-04-25",
+        "DocumentType": "диплом",
+        "DocumentSeries": "351",
+        "DocumentNumber": "987654",
+        "Supervisor": "Васильева Елена Ивановна",
+        "Hours": "360",
+        "DocumentURL": "https://mega.nz/file/8QAnGYLa#opqr3lU6wHi9olCEdcZvGYO83zk8k_2frYmm1zSzC1J"
+    },
+    {
+        "Name": "Васильев Антон Михайлович",
+        "Specialty": "Программирование",
+        "GraduationDate": "2024-07-10",
+        "DocumentType": "свидетельство",
+        "DocumentSeries": "654",
+        "DocumentNumber": "222333",
+        "Supervisor": "Тимофеева Марина Сергеевна",
+        "Hours": "480",
+        "DocumentURL": "https://mega.nz/file/9QAoHYMa#stuv4mU7xHi9plDFddZvHYO84zk8l_3gsZnn2zSzC2K"
+    },
+    {
+        "Name": "Лебедева Светлана Андреевна",
+        "Specialty": "Финансы",
+        "GraduationDate": "2024-03-01",
+        "DocumentType": "сертификат",
+        "DocumentSeries": "432",
+        "DocumentNumber": "678910",
+        "Supervisor": "Кузнецова Ольга Юрьевна",
+        "Hours": "390",
+        "DocumentURL": "https://mega.nz/file/0QApIYNa#uvwx5nU8xHi9qlGEdcZvIYO85zk8m_4htAoo3zSzC3L"
+    },
+    {
+        "Name": "Ковалёв Артем Владимирович",
+        "Specialty": "Логистика",
+        "GraduationDate": "2024-01-20",
+        "DocumentType": "удостоверение",
+        "DocumentSeries": "517",
+        "DocumentNumber": "444555",
+        "Supervisor": "Демидов Сергей Николаевич",
+        "Hours": "320",
+        "DocumentURL": "https://mega.nz/file/1QArJYPa#yzab6oU9xHi9rlHFdeZvJYO86zk8n_5iuBpp4zSzC4M"
+    },
+    {
+        "Name": "Григорьева Татьяна Юрьевна",
+        "Specialty": "Управление персоналом",
+        "GraduationDate": "2023-09-05",
+        "DocumentType": "диплом",
+        "DocumentSeries": "278",
+        "DocumentNumber": "456789",
+        "Supervisor": "Ковальчук Андрей Петрович",
+        "Hours": "310",
+        "DocumentURL": "https://mega.nz/file/2QAsKYQa#cdef7pU0yHi9slIFdeZvKYO87zk8o_6jvCpp5zSzC5N"
+    },
+    {
+        "Name": "Егоров Максим Олегович",
+        "Specialty": "Информационные технологии",
+        "GraduationDate": "2023-10-12",
+        "DocumentType": "свидетельство",
+        "DocumentSeries": "369",
+        "DocumentNumber": "112233",
+        "Supervisor": "Никитина Екатерина Владимировна",
+        "Hours": "440",
+        "DocumentURL": "https://mega.nz/file/3QAtLYRa#ghij8qU1zHi9tlJFeeZvLYO88zk8p_7kvDqq6zSzC6O"
+    }
   ]
   
